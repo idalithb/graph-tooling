@@ -1,5 +1,41 @@
 # @graphprotocol/graph-cli
 
+## 0.96.0
+
+### Minor Changes
+
+- [#1929](https://github.com/graphprotocol/graph-tooling/pull/1929)
+  [`4311d0e`](https://github.com/graphprotocol/graph-tooling/commit/4311d0e177b37a7698d5befae9b6e9cafa6b37c9)
+  Thanks [@YaroShkvorets](https://github.com/YaroShkvorets)! - `graph codegen`: handle events with
+  fields with reserved names #1896
+
+### Patch Changes
+
+- [#1834](https://github.com/graphprotocol/graph-tooling/pull/1834)
+  [`0058157`](https://github.com/graphprotocol/graph-tooling/commit/0058157e45c8902cf0068c359492da3d751529f8)
+  Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+
+  - Updated dependency [`@oclif/core@4.2.4` ↗︎](https://www.npmjs.com/package/@oclif/core/v/4.2.4)
+    (from `4.0.34`, in `dependencies`)
+  - Updated dependency [`chokidar@4.0.3` ↗︎](https://www.npmjs.com/package/chokidar/v/4.0.3) (from
+    `4.0.1`, in `dependencies`)
+  - Updated dependency [`debug@4.4.0` ↗︎](https://www.npmjs.com/package/debug/v/4.4.0) (from
+    `4.3.7`, in `dependencies`)
+  - Updated dependency [`fs-extra@11.3.0` ↗︎](https://www.npmjs.com/package/fs-extra/v/11.3.0)
+    (from `11.2.0`, in `dependencies`)
+  - Updated dependency [`glob@11.0.1` ↗︎](https://www.npmjs.com/package/glob/v/11.0.1) (from
+    `11.0.0`, in `dependencies`)
+  - Updated dependency [`graphql@16.10.0` ↗︎](https://www.npmjs.com/package/graphql/v/16.10.0)
+    (from `16.9.0`, in `dependencies`)
+  - Updated dependency [`undici@7.3.0` ↗︎](https://www.npmjs.com/package/undici/v/7.3.0) (from
+    `7.2.3`, in `dependencies`)
+  - Updated dependency [`yaml@2.7.0` ↗︎](https://www.npmjs.com/package/yaml/v/2.7.0) (from `2.6.1`,
+    in `dependencies`)
+
+- [#1919](https://github.com/graphprotocol/graph-tooling/pull/1919)
+  [`955f7b0`](https://github.com/graphprotocol/graph-tooling/commit/955f7b02629c142b18ea9f05fce0a6745a4921b7)
+  Thanks [@YaroShkvorets](https://github.com/YaroShkvorets)! - chore: move github actions around
+
 ## 0.95.0
 
 ### Minor Changes
