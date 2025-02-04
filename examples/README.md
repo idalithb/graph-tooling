@@ -7,7 +7,7 @@ This section provides several subgraph examples to help developers get started w
 
 ## Table of Contents
 
-1. **[Aggregations](#aggregations)**  
+1. **[Aggregations]([/graphprotocol/graph-tooling/tree/examples/aggregations))**  
    This subgraph demonstrates how to aggregate data using block numbers as predictable values. Comments in the schema, subgraph manifest, and mappings provide guidance for implementing custom aggregations.
 
 2. **[Arweave Blocks and Transactions](#arweave-blocks-and-transactions)**  
